@@ -1,0 +1,1 @@
+Este proyecto es un proceso de Gitflow que tenemos que seguir en un entorno profesional. Por eso estaré haciendo las ramas y commits correspondientes para que se vea lo más pulido posible y parecido a un proyecto real.
