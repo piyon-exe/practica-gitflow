@@ -1,1 +1,4 @@
 Este proyecto es un proceso de Gitflow que tenemos que seguir en un entorno profesional. Por eso estaré haciendo las ramas y commits correspondientes para que se vea lo más pulido posible y parecido a un proyecto real.
+
+Se acaba de finalizar la versión 1.0.0 
+Se procederá al lanzamiento a main tras revisar que todo esté correcto.
